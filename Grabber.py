@@ -15,7 +15,7 @@ print("Coded by dev github/dev6920")
 
 while True:
   
-  username = input("Enter username (type 'exit' to quit): ")
+  username = input(boxanu)
 
   if username == "exit":
     break
